@@ -200,5 +200,6 @@ public class BattleShips {
             int[][] playerPos = playerShipSetUp(theMap);
             int[][] computerPos = computerShipSetUp(playerPos);
             battle(playerPos, computerPos, theMap);
+            //Testing Commits to Github
         }
     }
